@@ -1,0 +1,207 @@
+{
+  "id": "i-see-1-24",
+  "title": "I See",
+  "subtitle": "牛津阅读树 Level 1 · 我看见",
+  "cover": {
+    "image": "images/i-see/cover.webp",
+    "title": "I See",
+    "subtitle": "我看见，我看见！"
+  },
+  "audio": {
+    "src": "audio/i-see/story.mp3"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "images/i-see/page-01.webp",
+      "text": "I see Biff.",
+      "zh": "我看见 Biff。",
+      "start": 0,
+      "end": 5.3
+    },
+    {
+      "index": 1,
+      "image": "images/i-see/page-02.webp",
+      "text": "I see Chip.",
+      "zh": "我看见 Chip。",
+      "start": 5.3,
+      "end": 11.9
+    },
+    {
+      "index": 2,
+      "image": "images/i-see/page-03.webp",
+      "text": "I see Mum and Dad.",
+      "zh": "我看见妈妈和爸爸。",
+      "start": 11.9,
+      "end": 19.07
+    },
+    {
+      "index": 3,
+      "image": "images/i-see/page-04.webp",
+      "text": "We see Kipper.",
+      "zh": "我们看见 Kipper。",
+      "start": 19.07,
+      "end": 26.5
+    },
+    {
+      "index": 4,
+      "image": "images/i-see/page-05.webp",
+      "text": "We see Floppy.",
+      "zh": "我们看见 Floppy。",
+      "start": 26.5,
+      "end": 34.4
+    },
+    {
+      "index": 5,
+      "image": "images/i-see/page-06.webp",
+      "text": "I see Biff and Chip.",
+      "zh": "我看见 Biff 和 Chip。",
+      "start": 34.4,
+      "end": 40.7
+    },
+    {
+      "index": 6,
+      "image": "images/i-see/page-07.webp",
+      "text": "I see me.",
+      "zh": "我看见我自己。",
+      "start": 40.7,
+      "end": 51.48
+    },
+    {
+      "index": 7,
+      "image": "images/i-see/page-08.webp",
+      "text": "I see Biff. I see Chip. I see Mum and Dad. I see Kipper. I see Floppy.",
+      "zh": "我看见 Biff，我看见 Chip，我看见妈妈和爸爸，我看见 Kipper，我看见 Floppy。",
+      "start": 51.48,
+      "end": 67.94
+    }
+  ],
+  "cards": [
+    {
+      "id": "i",
+      "word": "I",
+      "zh": "我",
+      "image": "images/i-see/cards/i.webp",
+      "audio": "audio/i-see/words/i.mp3",
+      "sentence": "I see Biff.",
+      "sentenceZh": "我看见 Biff。",
+      "scenario": "I like apples.",
+      "scenarioZh": "我喜欢苹果。",
+      "find": {
+        "label": "找一找：举着望远镜看的小朋友在哪里？",
+        "pageImage": "images/i-see/page-01.webp",
+        "hotspot": { "x1": 0.05, "y1": 0.2, "x2": 0.5, "y2": 0.75 }
+      }
+    },
+    {
+      "id": "see",
+      "word": "see",
+      "zh": "看见",
+      "image": "images/i-see/cards/see.webp",
+      "audio": "audio/i-see/words/see.mp3",
+      "sentence": "We see Floppy.",
+      "sentenceZh": "我们看见 Floppy。",
+      "scenario": "Can you see the cat?",
+      "scenarioZh": "你能看见那只猫吗？",
+      "find": {
+        "label": "找一找：看着狗屋找小狗的小朋友在哪里？",
+        "pageImage": "images/i-see/page-05.webp",
+        "hotspot": { "x1": 0.1, "y1": 0.2, "x2": 0.96, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "we",
+      "word": "we",
+      "zh": "我们",
+      "image": "images/i-see/cards/we.webp",
+      "audio": "audio/i-see/words/we.mp3",
+      "sentence": "We see Kipper.",
+      "sentenceZh": "我们看见 Kipper。",
+      "scenario": "We go to the park.",
+      "scenarioZh": "我们去公园。",
+      "find": {
+        "label": "找一找：趴在地上看纸箱的小朋友在哪里？",
+        "pageImage": "images/i-see/page-04.webp",
+        "hotspot": { "x1": 0.1, "y1": 0.2, "x2": 0.9, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "me",
+      "word": "me",
+      "zh": "我（自己）",
+      "image": "images/i-see/cards/me.webp",
+      "audio": "audio/i-see/words/me.mp3",
+      "sentence": "I see me.",
+      "sentenceZh": "我看见我自己。",
+      "scenario": "Look at me!",
+      "scenarioZh": "看我！",
+      "find": {
+        "label": "找一找：照镜子的小朋友在哪里？",
+        "pageImage": "images/i-see/page-07.webp",
+        "hotspot": { "x1": 0.1, "y1": 0.1, "x2": 0.9, "y2": 0.78 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "I see Biff!",
+      "questionAudio": "audio/i-see/questions/q1.mp3",
+      "hint": "小朋友举着望远镜，看见了 Biff。",
+      "options": [
+        { "image": "images/i-see/page-01.webp", "label": "see Biff", "correct": true },
+        { "image": "images/i-see/page-02.webp", "label": "see Chip", "correct": false },
+        { "image": "images/i-see/page-05.webp", "label": "see Floppy", "correct": false },
+        { "image": "images/i-see/page-07.webp", "label": "see me", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "I see Chip!",
+      "questionAudio": "audio/i-see/questions/q2.mp3",
+      "hint": "Chip 在门后面呢。",
+      "options": [
+        { "image": "images/i-see/page-02.webp", "label": "see Chip", "correct": true },
+        { "image": "images/i-see/page-01.webp", "label": "see Biff", "correct": false },
+        { "image": "images/i-see/page-04.webp", "label": "see Kipper", "correct": false },
+        { "image": "images/i-see/page-08.webp", "label": "everyone", "correct": false }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "We see Kipper!",
+      "questionAudio": "audio/i-see/questions/q3.mp3",
+      "hint": "三个小朋友趴在地上，看见了纸箱里的 Kipper。",
+      "options": [
+        { "image": "images/i-see/page-04.webp", "label": "see Kipper", "correct": true },
+        { "image": "images/i-see/page-01.webp", "label": "see Biff", "correct": false },
+        { "image": "images/i-see/page-05.webp", "label": "see Floppy", "correct": false },
+        { "image": "images/i-see/page-07.webp", "label": "see me", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "I see Mum and Dad!",
+      "questionAudio": "audio/i-see/questions/q4.mp3",
+      "hint": "Kipper 举着相机，拍到了妈妈和爸爸。",
+      "options": [
+        { "image": "images/i-see/page-03.webp", "label": "Mum and Dad", "correct": true },
+        { "image": "images/i-see/page-02.webp", "label": "Chip", "correct": false },
+        { "image": "images/i-see/page-06.webp", "label": "Biff and Chip", "correct": false },
+        { "image": "images/i-see/page-08.webp", "label": "everyone", "correct": false }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "I see me!",
+      "questionAudio": "audio/i-see/questions/q5.mp3",
+      "hint": "照镜子的小朋友，看见了自己。",
+      "options": [
+        { "image": "images/i-see/page-07.webp", "label": "me", "correct": true },
+        { "image": "images/i-see/page-04.webp", "label": "Kipper", "correct": false },
+        { "image": "images/i-see/page-06.webp", "label": "Biff and Chip", "correct": false },
+        { "image": "images/i-see/page-01.webp", "label": "Biff", "correct": false }
+      ]
+    }
+  ]
+}

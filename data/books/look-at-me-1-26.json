@@ -1,0 +1,207 @@
+{
+  "id": "look-at-me-1-26",
+  "title": "Look at Me",
+  "subtitle": "牛津阅读树 Level 1 · 看我",
+  "cover": {
+    "image": "images/look-at-me/cover.webp",
+    "title": "Look at Me",
+    "subtitle": "看我骑车！"
+  },
+  "audio": {
+    "src": "audio/look-at-me/story.mp3"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "images/look-at-me/page-02.webp",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 0,
+      "end": 3.21
+    },
+    {
+      "index": 1,
+      "image": "images/look-at-me/page-03.webp",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 3.21,
+      "end": 7.11
+    },
+    {
+      "index": 2,
+      "image": "images/look-at-me/page-04.webp",
+      "text": "Look at me on my bike.",
+      "zh": "看我骑自行车。",
+      "start": 7.11,
+      "end": 13.96
+    },
+    {
+      "index": 3,
+      "image": "images/look-at-me/page-05.webp",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 13.96,
+      "end": 19.99
+    },
+    {
+      "index": 4,
+      "image": "images/look-at-me/page-06.webp",
+      "text": "Look at me on my bike.",
+      "zh": "看我骑自行车。",
+      "start": 19.99,
+      "end": 26.35
+    },
+    {
+      "index": 5,
+      "image": "images/look-at-me/page-07.webp",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 26.35,
+      "end": 33.02
+    },
+    {
+      "index": 6,
+      "image": "images/look-at-me/page-08.webp",
+      "text": "Oh, no!",
+      "zh": "哦，不！",
+      "start": 33.02,
+      "end": 39.25
+    },
+    {
+      "index": 7,
+      "image": "images/look-at-me/page-09.webp",
+      "text": "Look at me!",
+      "zh": "看我！",
+      "start": 39.25,
+      "end": 43.26
+    }
+  ],
+  "cards": [
+    {
+      "id": "look",
+      "word": "look",
+      "zh": "看",
+      "image": "images/look-at-me/cards/look.webp",
+      "audio": "audio/look-at-me/words/look.mp3",
+      "sentence": "Look at me!",
+      "sentenceZh": "看我！",
+      "scenario": "Look at the bird!",
+      "scenarioZh": "看那只小鸟！",
+      "find": {
+        "label": "找一找：戴头盔、张大嘴巴喊“看我”的小朋友在哪里？",
+        "pageImage": "images/look-at-me/page-09.webp",
+        "hotspot": { "x1": 0.0, "y1": 0.1, "x2": 0.45, "y2": 0.85 }
+      }
+    },
+    {
+      "id": "me",
+      "word": "me",
+      "zh": "我",
+      "image": "images/look-at-me/cards/me.webp",
+      "audio": "audio/look-at-me/words/me.mp3",
+      "sentence": "Look at me, Mum.",
+      "sentenceZh": "看我，妈妈。",
+      "scenario": "This is me.",
+      "scenarioZh": "这是我。",
+      "find": {
+        "label": "找一找：骑自行车想给妈妈看的小朋友在哪里？",
+        "pageImage": "images/look-at-me/page-02.webp",
+        "hotspot": { "x1": 0.25, "y1": 0.05, "x2": 0.85, "y2": 0.85 }
+      }
+    },
+    {
+      "id": "bike",
+      "word": "bike",
+      "zh": "自行车",
+      "image": "images/look-at-me/cards/bike.webp",
+      "audio": "audio/look-at-me/words/bike.mp3",
+      "sentence": "Look at me on my bike.",
+      "sentenceZh": "看我骑自行车。",
+      "scenario": "My bike is red.",
+      "scenarioZh": "我的自行车是红色的。",
+      "find": {
+        "label": "找一找：骑自行车溅起泥水的小朋友在哪里？",
+        "pageImage": "images/look-at-me/page-07.webp",
+        "hotspot": { "x1": 0.28, "y1": 0.03, "x2": 0.88, "y2": 0.9 }
+      }
+    },
+    {
+      "id": "no",
+      "word": "no",
+      "zh": "不（糟糕）",
+      "image": "images/look-at-me/cards/no.webp",
+      "audio": "audio/look-at-me/words/no.mp3",
+      "sentence": "Oh, no!",
+      "sentenceZh": "哦，不！",
+      "scenario": "No, don't do that.",
+      "scenarioZh": "不，别那样做。",
+      "find": {
+        "label": "找一找：身上溅满泥水、很惊讶的大人（妈妈）在哪里？",
+        "pageImage": "images/look-at-me/page-08.webp",
+        "hotspot": { "x1": 0.15, "y1": 0.05, "x2": 0.8, "y2": 0.88 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Look at me, Mum.",
+      "questionAudio": "audio/look-at-me/questions/q1.mp3",
+      "hint": "男孩骑着自行车，想让妈妈看他。",
+      "options": [
+        { "image": "images/look-at-me/page-02.webp", "label": "look at me", "correct": true },
+        { "image": "images/look-at-me/page-04.webp", "label": "on my bike", "correct": false },
+        { "image": "images/look-at-me/page-08.webp", "label": "oh no", "correct": false },
+        { "image": "images/look-at-me/page-05.webp", "label": "look at me", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Look at me on my bike.",
+      "questionAudio": "audio/look-at-me/questions/q2.mp3",
+      "hint": "他大声说：看我骑自行车！",
+      "options": [
+        { "image": "images/look-at-me/page-04.webp", "label": "on my bike", "correct": true },
+        { "image": "images/look-at-me/page-02.webp", "label": "look at me", "correct": false },
+        { "image": "images/look-at-me/page-05.webp", "label": "look at me", "correct": false },
+        { "image": "images/look-at-me/page-06.webp", "label": "on my bike", "correct": false }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Oh, no!",
+      "questionAudio": "audio/look-at-me/questions/q3.mp3",
+      "hint": "妈妈被溅起的泥水吓了一跳。",
+      "options": [
+        { "image": "images/look-at-me/page-08.webp", "label": "oh no", "correct": true },
+        { "image": "images/look-at-me/page-02.webp", "label": "look at me", "correct": false },
+        { "image": "images/look-at-me/page-07.webp", "label": "look at me", "correct": false },
+        { "image": "images/look-at-me/page-09.webp", "label": "look at me", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Look at me!",
+      "questionAudio": "audio/look-at-me/questions/q4.mp3",
+      "hint": "妈妈浑身是泥，摊开手说：看看我！",
+      "options": [
+        { "image": "images/look-at-me/page-09.webp", "label": "look at me", "correct": true },
+        { "image": "images/look-at-me/page-02.webp", "label": "look at me", "correct": false },
+        { "image": "images/look-at-me/page-05.webp", "label": "look at me", "correct": false },
+        { "image": "images/look-at-me/page-08.webp", "label": "oh no", "correct": false }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Look at me, Mum.",
+      "questionAudio": "audio/look-at-me/questions/q5.mp3",
+      "hint": "男孩趴在车把上做特技，让妈妈看他。",
+      "options": [
+        { "image": "images/look-at-me/page-03.webp", "label": "look at me", "correct": true },
+        { "image": "images/look-at-me/page-04.webp", "label": "on my bike", "correct": false },
+        { "image": "images/look-at-me/page-08.webp", "label": "oh no", "correct": false },
+        { "image": "images/look-at-me/page-02.webp", "label": "look at me", "correct": false }
+      ]
+    }
+  ]
+}

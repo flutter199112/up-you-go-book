@@ -1,0 +1,207 @@
+{
+  "id": "hide-and-seek-1-25",
+  "title": "Hide and Seek",
+  "subtitle": "牛津阅读树 Level 1 · 捉迷藏",
+  "cover": {
+    "image": "images/hide-seek/cover.webp",
+    "title": "Hide and Seek",
+    "subtitle": "捉迷藏，你能看见我吗？"
+  },
+  "audio": {
+    "src": "audio/hide-seek/story.mp3"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "images/hide-seek/page-02.webp",
+      "text": "Can you see us?",
+      "zh": "你们看见我们了吗？",
+      "start": 0,
+      "end": 3.52
+    },
+    {
+      "index": 1,
+      "image": "images/hide-seek/page-03.webp",
+      "text": "Can you see me?",
+      "zh": "你能看见我吗？",
+      "start": 3.52,
+      "end": 7.96
+    },
+    {
+      "index": 2,
+      "image": "images/hide-seek/page-04.webp",
+      "text": "Yes, I can see you.",
+      "zh": "是的，我能看见你。",
+      "start": 7.96,
+      "end": 13.54
+    },
+    {
+      "index": 3,
+      "image": "images/hide-seek/page-05.webp",
+      "text": "Can you see me?",
+      "zh": "你能看见我吗？",
+      "start": 13.54,
+      "end": 17.97
+    },
+    {
+      "index": 4,
+      "image": "images/hide-seek/page-06.webp",
+      "text": "Yes, we can see you.",
+      "zh": "是的，我们看见你了。",
+      "start": 17.97,
+      "end": 23.45
+    },
+    {
+      "index": 5,
+      "image": "images/hide-seek/page-07.webp",
+      "text": "Can you see me?",
+      "zh": "你能看见我吗？",
+      "start": 23.45,
+      "end": 28.17
+    },
+    {
+      "index": 6,
+      "image": "images/hide-seek/page-08.webp",
+      "text": "Yes, we can see you.",
+      "zh": "是的，我们看见你了。",
+      "start": 28.17,
+      "end": 34.92
+    },
+    {
+      "index": 7,
+      "image": "images/hide-seek/page-09.webp",
+      "text": "We can all see Dad.",
+      "zh": "我们都看见爸爸了。",
+      "start": 34.92,
+      "end": 47.05
+    }
+  ],
+  "cards": [
+    {
+      "id": "hide",
+      "word": "hide",
+      "zh": "躲藏",
+      "image": "images/hide-seek/cards/hide.webp",
+      "audio": "audio/hide-seek/words/hide.mp3",
+      "sentence": "Can you see me?",
+      "sentenceZh": "你能看见我吗？",
+      "scenario": "Let's hide!",
+      "scenarioZh": "我们来躲起来吧！",
+      "find": {
+        "label": "找一找：躲在纸箱里露出双手的小朋友在哪里？",
+        "pageImage": "images/hide-seek/page-05.webp",
+        "hotspot": { "x1": 0.08, "y1": 0.28, "x2": 0.62, "y2": 0.85 }
+      }
+    },
+    {
+      "id": "you",
+      "word": "you",
+      "zh": "你",
+      "image": "images/hide-seek/cards/you.webp",
+      "audio": "audio/hide-seek/words/you.mp3",
+      "sentence": "Yes, we can see you.",
+      "sentenceZh": "是的，我们看见你了。",
+      "scenario": "You are my friend.",
+      "scenarioZh": "你是我的朋友。",
+      "find": {
+        "label": "找一找：破纸箱里张开双臂大笑的小朋友在哪里？",
+        "pageImage": "images/hide-seek/page-07.webp",
+        "hotspot": { "x1": 0.26, "y1": 0.3, "x2": 0.85, "y2": 0.9 }
+      }
+    },
+    {
+      "id": "see",
+      "word": "see",
+      "zh": "看见",
+      "image": "images/hide-seek/cards/see.webp",
+      "audio": "audio/hide-seek/words/see.mp3",
+      "sentence": "Yes, I can see you.",
+      "sentenceZh": "是的，我能看见你。",
+      "scenario": "I can see a bird.",
+      "scenarioZh": "我看见一只小鸟。",
+      "find": {
+        "label": "找一找：伸出手指着小朋友的绿衣男孩在哪里？",
+        "pageImage": "images/hide-seek/page-06.webp",
+        "hotspot": { "x1": 0.3, "y1": 0.25, "x2": 0.8, "y2": 0.88 }
+      }
+    },
+    {
+      "id": "all",
+      "word": "all",
+      "zh": "都，全部",
+      "image": "images/hide-seek/cards/all.webp",
+      "audio": "audio/hide-seek/words/all.mp3",
+      "sentence": "We can all see Dad.",
+      "sentenceZh": "我们都看见爸爸了。",
+      "scenario": "All the children are happy.",
+      "scenarioZh": "所有孩子都很开心。",
+      "find": {
+        "label": "找一找：坐在红色独轮车里的大人（爸爸）在哪里？",
+        "pageImage": "images/hide-seek/page-09.webp",
+        "hotspot": { "x1": 0.2, "y1": 0.15, "x2": 0.8, "y2": 0.8 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Can you see us?",
+      "questionAudio": "audio/hide-seek/questions/q1.mp3",
+      "hint": "大家一起问的时候，用的是 us（我们）哦。",
+      "options": [
+        { "image": "images/hide-seek/page-02.webp", "label": "see us", "correct": true },
+        { "image": "images/hide-seek/page-03.webp", "label": "see me", "correct": false },
+        { "image": "images/hide-seek/page-05.webp", "label": "see me", "correct": false },
+        { "image": "images/hide-seek/page-09.webp", "label": "see Dad", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Yes, I can see you.",
+      "questionAudio": "audio/hide-seek/questions/q2.mp3",
+      "hint": "手推车旁的小朋友说：我一个人能看见你。",
+      "options": [
+        { "image": "images/hide-seek/page-04.webp", "label": "I can see you", "correct": true },
+        { "image": "images/hide-seek/page-02.webp", "label": "see us", "correct": false },
+        { "image": "images/hide-seek/page-06.webp", "label": "we see you", "correct": false },
+        { "image": "images/hide-seek/page-08.webp", "label": "we see you", "correct": false }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Can you see me?",
+      "questionAudio": "audio/hide-seek/questions/q3.mp3",
+      "hint": "纸箱里的小朋友问：你能看见我吗？",
+      "options": [
+        { "image": "images/hide-seek/page-05.webp", "label": "see me", "correct": true },
+        { "image": "images/hide-seek/page-03.webp", "label": "see me", "correct": false },
+        { "image": "images/hide-seek/page-07.webp", "label": "see me", "correct": false },
+        { "image": "images/hide-seek/page-08.webp", "label": "we see you", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Yes, we can see you.",
+      "questionAudio": "audio/hide-seek/questions/q4.mp3",
+      "hint": "大家一起说：我们看见你了。",
+      "options": [
+        { "image": "images/hide-seek/page-06.webp", "label": "we see you", "correct": true },
+        { "image": "images/hide-seek/page-04.webp", "label": "I can see you", "correct": false },
+        { "image": "images/hide-seek/page-08.webp", "label": "we see you", "correct": false },
+        { "image": "images/hide-seek/page-02.webp", "label": "see us", "correct": false }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "We can all see Dad.",
+      "questionAudio": "audio/hide-seek/questions/q5.mp3",
+      "hint": "最后爸爸也被找到啦，所有人都看见他了。",
+      "options": [
+        { "image": "images/hide-seek/page-09.webp", "label": "see Dad", "correct": true },
+        { "image": "images/hide-seek/page-02.webp", "label": "see us", "correct": false },
+        { "image": "images/hide-seek/page-05.webp", "label": "see me", "correct": false },
+        { "image": "images/hide-seek/page-07.webp", "label": "see me", "correct": false }
+      ]
+    }
+  ]
+}
