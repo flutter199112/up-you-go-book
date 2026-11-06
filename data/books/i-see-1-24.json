@@ -1,0 +1,207 @@
+{
+  "id": "i-see-1-24",
+  "title": "I See",
+  "subtitle": "牛津阅读树 Level 1 · 我看见",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/d5qMVe4PUG",
+    "title": "I See",
+    "subtitle": "我看见，我看见！"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/rdAXOLc5ve"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/MvNzSYbUwz",
+      "text": "I see Biff.",
+      "zh": "我看见 Biff。",
+      "start": 0,
+      "end": 5.3
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/uc0Tfd7dzU",
+      "text": "I see Chip.",
+      "zh": "我看见 Chip。",
+      "start": 5.3,
+      "end": 11.9
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/pZBuDWNywY",
+      "text": "I see Mum and Dad.",
+      "zh": "我看见妈妈和爸爸。",
+      "start": 11.9,
+      "end": 19.07
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/tbE1cUctSD",
+      "text": "We see Kipper.",
+      "zh": "我们看见 Kipper。",
+      "start": 19.07,
+      "end": 26.5
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/FdHsRbzRf3",
+      "text": "We see Floppy.",
+      "zh": "我们看见 Floppy。",
+      "start": 26.5,
+      "end": 34.4
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/g2jdpDv5Jx",
+      "text": "I see Biff and Chip.",
+      "zh": "我看见 Biff 和 Chip。",
+      "start": 34.4,
+      "end": 40.7
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/0rSOz260kM",
+      "text": "I see me.",
+      "zh": "我看见我自己。",
+      "start": 40.7,
+      "end": 51.48
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/aKEB2m5ubn",
+      "text": "I see Biff. I see Chip. I see Mum and Dad. I see Kipper. I see Floppy.",
+      "zh": "我看见 Biff，我看见 Chip，我看见妈妈和爸爸，我看见 Kipper，我看见 Floppy。",
+      "start": 51.48,
+      "end": 67.94
+    }
+  ],
+  "cards": [
+    {
+      "id": "i",
+      "word": "I",
+      "zh": "我",
+      "image": "https://aka.doubaocdn.com/s/UxnwHyYqde",
+      "audio": "https://aka.doubaocdn.com/s/0UQLjbJ9Km",
+      "sentence": "I see Biff.",
+      "sentenceZh": "我看见 Biff。",
+      "scenario": "I like apples.",
+      "scenarioZh": "我喜欢苹果。",
+      "find": {
+        "label": "找一找：举着望远镜看的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/MvNzSYbUwz",
+        "hotspot": { "x1": 0.05, "y1": 0.2, "x2": 0.5, "y2": 0.75 }
+      }
+    },
+    {
+      "id": "see",
+      "word": "see",
+      "zh": "看见",
+      "image": "https://aka.doubaocdn.com/s/vqSLVf6UfN",
+      "audio": "https://aka.doubaocdn.com/s/ouuOBpXcen",
+      "sentence": "We see Floppy.",
+      "sentenceZh": "我们看见 Floppy。",
+      "scenario": "Can you see the cat?",
+      "scenarioZh": "你能看见那只猫吗？",
+      "find": {
+        "label": "找一找：看着狗屋找小狗的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/FdHsRbzRf3",
+        "hotspot": { "x1": 0.1, "y1": 0.2, "x2": 0.96, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "we",
+      "word": "we",
+      "zh": "我们",
+      "image": "https://aka.doubaocdn.com/s/n9kIo7Nwva",
+      "audio": "https://aka.doubaocdn.com/s/Y6DbTGg3IY",
+      "sentence": "We see Kipper.",
+      "sentenceZh": "我们看见 Kipper。",
+      "scenario": "We go to the park.",
+      "scenarioZh": "我们去公园。",
+      "find": {
+        "label": "找一找：趴在地上看纸箱的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/tbE1cUctSD",
+        "hotspot": { "x1": 0.1, "y1": 0.2, "x2": 0.9, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "me",
+      "word": "me",
+      "zh": "我（自己）",
+      "image": "https://aka.doubaocdn.com/s/fGAmANdtHz",
+      "audio": "https://aka.doubaocdn.com/s/sBAMRRrucV",
+      "sentence": "I see me.",
+      "sentenceZh": "我看见我自己。",
+      "scenario": "Look at me!",
+      "scenarioZh": "看我！",
+      "find": {
+        "label": "找一找：照镜子的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/0rSOz260kM",
+        "hotspot": { "x1": 0.1, "y1": 0.1, "x2": 0.9, "y2": 0.78 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "I see Biff!",
+      "questionAudio": "https://aka.doubaocdn.com/s/Rvb0UyoqsZ",
+      "hint": "小朋友举着望远镜，看见了 Biff。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/MvNzSYbUwz", "label": "see Biff", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/uc0Tfd7dzU", "label": "see Chip", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/FdHsRbzRf3", "label": "see Floppy", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/0rSOz260kM", "label": "see me", "correct": false }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "I see Chip!",
+      "questionAudio": "https://aka.doubaocdn.com/s/roFmqfEjVU",
+      "hint": "Chip 在门后面呢。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/uc0Tfd7dzU", "label": "see Chip", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/MvNzSYbUwz", "label": "see Biff", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/tbE1cUctSD", "label": "see Kipper", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/aKEB2m5ubn", "label": "everyone", "correct": false }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "We see Kipper!",
+      "questionAudio": "https://aka.doubaocdn.com/s/dLHcjiVPoT",
+      "hint": "三个小朋友趴在地上，看见了纸箱里的 Kipper。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/tbE1cUctSD", "label": "see Kipper", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/MvNzSYbUwz", "label": "see Biff", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/FdHsRbzRf3", "label": "see Floppy", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/0rSOz260kM", "label": "see me", "correct": false }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "I see Mum and Dad!",
+      "questionAudio": "https://aka.doubaocdn.com/s/Ulr3XLF6PP",
+      "hint": "Kipper 举着相机，拍到了妈妈和爸爸。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/pZBuDWNywY", "label": "Mum and Dad", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/uc0Tfd7dzU", "label": "Chip", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/g2jdpDv5Jx", "label": "Biff and Chip", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/aKEB2m5ubn", "label": "everyone", "correct": false }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "I see me!",
+      "questionAudio": "https://aka.doubaocdn.com/s/w6PV3QHkOK",
+      "hint": "照镜子的小朋友，看见了自己。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/0rSOz260kM", "label": "me", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/tbE1cUctSD", "label": "Kipper", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/g2jdpDv5Jx", "label": "Biff and Chip", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/MvNzSYbUwz", "label": "Biff", "correct": false }
+      ]
+    }
+  ]
+}

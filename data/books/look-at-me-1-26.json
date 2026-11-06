@@ -1,0 +1,307 @@
+{
+  "id": "look-at-me-1-26",
+  "title": "Look at Me",
+  "subtitle": "牛津阅读树 Level 1 · 看我",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/71UXdwZkzv",
+    "title": "Look at Me",
+    "subtitle": "看我骑车！"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/1HP4kJAwFb"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/hhkTL6AEfi",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 0,
+      "end": 3.21
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/FPYqusgFez",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 3.21,
+      "end": 7.11
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/A0qI2vYDyQ",
+      "text": "Look at me on my bike.",
+      "zh": "看我骑自行车。",
+      "start": 7.11,
+      "end": 13.96
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/IoeJ4RSUm1",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 13.96,
+      "end": 19.99
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/nichHvVUYL",
+      "text": "Look at me on my bike.",
+      "zh": "看我骑自行车。",
+      "start": 19.99,
+      "end": 26.35
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/3KAGNLLYMA",
+      "text": "Look at me, Mum.",
+      "zh": "看我，妈妈。",
+      "start": 26.35,
+      "end": 33.02
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+      "text": "Oh, no!",
+      "zh": "哦，不！",
+      "start": 33.02,
+      "end": 39.25
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+      "text": "Look at me!",
+      "zh": "看我！",
+      "start": 39.25,
+      "end": 43.26
+    }
+  ],
+  "cards": [
+    {
+      "id": "look",
+      "word": "look",
+      "zh": "看",
+      "image": "https://aka.doubaocdn.com/s/zrz2AD6vjD",
+      "audio": "https://aka.doubaocdn.com/s/UtHoRDtQAx",
+      "sentence": "Look at me!",
+      "sentenceZh": "看我！",
+      "scenario": "Look at the bird!",
+      "scenarioZh": "看那只小鸟！",
+      "find": {
+        "label": "找一找：戴头盔、张大嘴巴喊“看我”的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+        "hotspot": {
+          "x1": 0.0,
+          "y1": 0.1,
+          "x2": 0.45,
+          "y2": 0.85
+        }
+      }
+    },
+    {
+      "id": "me",
+      "word": "me",
+      "zh": "我",
+      "image": "https://aka.doubaocdn.com/s/AxVpDLznGF",
+      "audio": "https://aka.doubaocdn.com/s/3nlTJtN6jX",
+      "sentence": "Look at me, Mum.",
+      "sentenceZh": "看我，妈妈。",
+      "scenario": "This is me.",
+      "scenarioZh": "这是我。",
+      "find": {
+        "label": "找一找：骑自行车想给妈妈看的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/hhkTL6AEfi",
+        "hotspot": {
+          "x1": 0.25,
+          "y1": 0.05,
+          "x2": 0.85,
+          "y2": 0.85
+        }
+      }
+    },
+    {
+      "id": "bike",
+      "word": "bike",
+      "zh": "自行车",
+      "image": "https://aka.doubaocdn.com/s/ym2uE4UlUV",
+      "audio": "https://aka.doubaocdn.com/s/jL9tUSuDrB",
+      "sentence": "Look at me on my bike.",
+      "sentenceZh": "看我骑自行车。",
+      "scenario": "My bike is red.",
+      "scenarioZh": "我的自行车是红色的。",
+      "find": {
+        "label": "找一找：骑自行车溅起泥水的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/3KAGNLLYMA",
+        "hotspot": {
+          "x1": 0.28,
+          "y1": 0.03,
+          "x2": 0.88,
+          "y2": 0.9
+        }
+      }
+    },
+    {
+      "id": "no",
+      "word": "no",
+      "zh": "不（糟糕）",
+      "image": "https://aka.doubaocdn.com/s/iyiXD3tVjS",
+      "audio": "https://aka.doubaocdn.com/s/rh3LbpYcCg",
+      "sentence": "Oh, no!",
+      "sentenceZh": "哦，不！",
+      "scenario": "No, don't do that.",
+      "scenarioZh": "不，别那样做。",
+      "find": {
+        "label": "找一找：身上溅满泥水、很惊讶的大人（妈妈）在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+        "hotspot": {
+          "x1": 0.15,
+          "y1": 0.05,
+          "x2": 0.8,
+          "y2": 0.88
+        }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Look at me, Mum.",
+      "questionAudio": "https://aka.doubaocdn.com/s/v0JEheWi4t",
+      "hint": "男孩骑着自行车，想让妈妈看他。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/hhkTL6AEfi",
+          "label": "look at me, Mum",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/A0qI2vYDyQ",
+          "label": "on my bike",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+          "label": "oh no",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+          "label": "look at me!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Look at me on my bike.",
+      "questionAudio": "https://aka.doubaocdn.com/s/fUWfgnTpVd",
+      "hint": "他大声说：看我骑自行车！",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/A0qI2vYDyQ",
+          "label": "on my bike",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/FPYqusgFez",
+          "label": "look at me, Mum",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+          "label": "oh no",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+          "label": "look at me!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Oh, no!",
+      "questionAudio": "https://aka.doubaocdn.com/s/xVcwJ86D24",
+      "hint": "妈妈被溅起的泥水吓了一跳。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+          "label": "oh no",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/hhkTL6AEfi",
+          "label": "look at me, Mum",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/A0qI2vYDyQ",
+          "label": "on my bike",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+          "label": "look at me!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Look at me!",
+      "questionAudio": "https://aka.doubaocdn.com/s/t1AhU64Ugv",
+      "hint": "妈妈浑身是泥，摊开手说：看看我！",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+          "label": "look at me!",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/hhkTL6AEfi",
+          "label": "look at me, Mum",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/A0qI2vYDyQ",
+          "label": "on my bike",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+          "label": "oh no",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Look at me, Mum.",
+      "questionAudio": "https://aka.doubaocdn.com/s/jEvtjO7ZBy",
+      "hint": "男孩趴在车把上做特技，让妈妈看他。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/3KAGNLLYMA",
+          "label": "look at me, Mum",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/A0qI2vYDyQ",
+          "label": "on my bike",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/dtSyxs67fq",
+          "label": "oh no",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ycJXBYgYsw",
+          "label": "look at me!",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

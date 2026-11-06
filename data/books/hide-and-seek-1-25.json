@@ -1,0 +1,307 @@
+{
+  "id": "hide-and-seek-1-25",
+  "title": "Hide and Seek",
+  "subtitle": "牛津阅读树 Level 1 · 捉迷藏",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/IWfS3VBiqP",
+    "title": "Hide and Seek",
+    "subtitle": "捉迷藏，你能看见我吗？"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/eAGsBLb3ne"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/qUSFFVVx39",
+      "text": "Can you see us?",
+      "zh": "你们看见我们了吗？",
+      "start": 0,
+      "end": 3.52
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/Qv1kBW5GaB",
+      "text": "Can you see me?",
+      "zh": "你能看见我吗？",
+      "start": 3.52,
+      "end": 7.96
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/FOpLDCr8vP",
+      "text": "Yes, I can see you.",
+      "zh": "是的，我能看见你。",
+      "start": 7.96,
+      "end": 13.54
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/zTzxu6IMqp",
+      "text": "Can you see me?",
+      "zh": "你能看见我吗？",
+      "start": 13.54,
+      "end": 17.97
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/ckd86I8G8H",
+      "text": "Yes, we can see you.",
+      "zh": "是的，我们看见你了。",
+      "start": 17.97,
+      "end": 23.45
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/jPZN3HlKGP",
+      "text": "Can you see me?",
+      "zh": "你能看见我吗？",
+      "start": 23.45,
+      "end": 28.17
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/H4eMNXgwfN",
+      "text": "Yes, we can see you.",
+      "zh": "是的，我们看见你了。",
+      "start": 28.17,
+      "end": 34.92
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/zMv1pkimSS",
+      "text": "We can all see Dad.",
+      "zh": "我们都看见爸爸了。",
+      "start": 34.92,
+      "end": 47.05
+    }
+  ],
+  "cards": [
+    {
+      "id": "hide",
+      "word": "hide",
+      "zh": "躲藏",
+      "image": "https://aka.doubaocdn.com/s/LdDrVG4Ktj",
+      "audio": "https://aka.doubaocdn.com/s/Qvm4VvpQ1l",
+      "sentence": "Can you see me?",
+      "sentenceZh": "你能看见我吗？",
+      "scenario": "Let's hide!",
+      "scenarioZh": "我们来躲起来吧！",
+      "find": {
+        "label": "找一找：躲在纸箱里露出双手的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/zTzxu6IMqp",
+        "hotspot": {
+          "x1": 0.08,
+          "y1": 0.28,
+          "x2": 0.62,
+          "y2": 0.85
+        }
+      }
+    },
+    {
+      "id": "you",
+      "word": "you",
+      "zh": "你",
+      "image": "https://aka.doubaocdn.com/s/8iotUcV0Vi",
+      "audio": "https://aka.doubaocdn.com/s/7r23bhRE6b",
+      "sentence": "Yes, we can see you.",
+      "sentenceZh": "是的，我们看见你了。",
+      "scenario": "You are my friend.",
+      "scenarioZh": "你是我的朋友。",
+      "find": {
+        "label": "找一找：破纸箱里张开双臂大笑的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/jPZN3HlKGP",
+        "hotspot": {
+          "x1": 0.26,
+          "y1": 0.3,
+          "x2": 0.85,
+          "y2": 0.9
+        }
+      }
+    },
+    {
+      "id": "see",
+      "word": "see",
+      "zh": "看见",
+      "image": "https://aka.doubaocdn.com/s/fXYuSVK579",
+      "audio": "https://aka.doubaocdn.com/s/RuC8YHbt8v",
+      "sentence": "Yes, I can see you.",
+      "sentenceZh": "是的，我能看见你。",
+      "scenario": "I can see a bird.",
+      "scenarioZh": "我看见一只小鸟。",
+      "find": {
+        "label": "找一找：伸出手指着小朋友的绿衣男孩在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/ckd86I8G8H",
+        "hotspot": {
+          "x1": 0.3,
+          "y1": 0.25,
+          "x2": 0.8,
+          "y2": 0.88
+        }
+      }
+    },
+    {
+      "id": "all",
+      "word": "all",
+      "zh": "都，全部",
+      "image": "https://aka.doubaocdn.com/s/HV3nPd7voc",
+      "audio": "https://aka.doubaocdn.com/s/r7RRv4ntq8",
+      "sentence": "We can all see Dad.",
+      "sentenceZh": "我们都看见爸爸了。",
+      "scenario": "All the children are happy.",
+      "scenarioZh": "所有孩子都很开心。",
+      "find": {
+        "label": "找一找：坐在红色独轮车里的大人（爸爸）在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/zMv1pkimSS",
+        "hotspot": {
+          "x1": 0.2,
+          "y1": 0.15,
+          "x2": 0.8,
+          "y2": 0.8
+        }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Can you see us?",
+      "questionAudio": "https://aka.doubaocdn.com/s/7T3P3VNXsI",
+      "hint": "大家一起问的时候，用的是 us（我们）哦。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/qUSFFVVx39",
+          "label": "see us",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/Qv1kBW5GaB",
+          "label": "see me",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/FOpLDCr8vP",
+          "label": "I can see you",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/zMv1pkimSS",
+          "label": "see Dad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Yes, I can see you.",
+      "questionAudio": "https://aka.doubaocdn.com/s/r31FSQCwfL",
+      "hint": "手推车旁的小朋友说：我一个人能看见你。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/FOpLDCr8vP",
+          "label": "I can see you",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qUSFFVVx39",
+          "label": "see us",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ckd86I8G8H",
+          "label": "we see you",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/zMv1pkimSS",
+          "label": "see Dad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Can you see me?",
+      "questionAudio": "https://aka.doubaocdn.com/s/9t5joDhAPj",
+      "hint": "纸箱里的小朋友问：你能看见我吗？",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/Qv1kBW5GaB",
+          "label": "see me",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qUSFFVVx39",
+          "label": "see us",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/FOpLDCr8vP",
+          "label": "I can see you",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ckd86I8G8H",
+          "label": "we see you",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Yes, we can see you.",
+      "questionAudio": "https://aka.doubaocdn.com/s/88ZbYVLVDU",
+      "hint": "大家一起说：我们看见你了。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/ckd86I8G8H",
+          "label": "we see you",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qUSFFVVx39",
+          "label": "see us",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/FOpLDCr8vP",
+          "label": "I can see you",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/zMv1pkimSS",
+          "label": "see Dad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "We can all see Dad.",
+      "questionAudio": "https://aka.doubaocdn.com/s/Ae4qhZUjq6",
+      "hint": "最后爸爸也被找到啦，所有人都看见他了。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/zMv1pkimSS",
+          "label": "see Dad",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qUSFFVVx39",
+          "label": "see us",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/Qv1kBW5GaB",
+          "label": "see me",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/FOpLDCr8vP",
+          "label": "I can see you",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

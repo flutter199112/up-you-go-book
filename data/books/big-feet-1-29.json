@@ -1,0 +1,287 @@
+{
+  "id": "big-feet-1-29",
+  "title": "Big Feet",
+  "subtitle": "牛津阅读树 Level 1 · 大脚",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/3sBq65gVTi",
+    "title": "Big Feet",
+    "subtitle": "大脚"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/D7UC3ZSxMA"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/VM2TTN4Lwc",
+      "text": "Come and look at this.",
+      "zh": "过来看这个。",
+      "start": 0,
+      "end": 5.76
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/Yk4l7ZMHR0",
+      "text": "Come and look at this.",
+      "zh": "过来看这个。",
+      "start": 5.76,
+      "end": 14.08
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/kKUR2aRxE9",
+      "text": "Is it a big monster?",
+      "zh": "是个大怪物吗？",
+      "start": 14.08,
+      "end": 20.08
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/qDdGV0qxB2",
+      "text": "Come and look at this.",
+      "zh": "过来看这个。",
+      "start": 20.08,
+      "end": 28.88
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/AMKFmY2vsR",
+      "text": "Is it a big dinosaur?",
+      "zh": "是只大恐龙吗？",
+      "start": 28.88,
+      "end": 35.58
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/GfwXaIIXhG",
+      "text": "Come and look at this.",
+      "zh": "过来看这个。",
+      "start": 35.58,
+      "end": 41.52
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/QjdTMOnKzt",
+      "text": "Is it a big giant?",
+      "zh": "是个大巨人吗？",
+      "start": 41.52,
+      "end": 47.76
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/Nhh3cYZyqX",
+      "text": "No. It is Dad.",
+      "zh": "不，是爸爸。",
+      "start": 47.76,
+      "end": 58.27
+    }
+  ],
+  "cards": [
+    {
+      "id": "monster",
+      "word": "monster",
+      "zh": "怪物",
+      "image": "https://aka.doubaocdn.com/s/ecXqsUXIvM",
+      "audio": "https://aka.doubaocdn.com/s/mViEZ3MlKs",
+      "sentence": "Is it a big monster?",
+      "sentenceZh": "是个大怪物吗？",
+      "scenario": "The monster is green.",
+      "scenarioZh": "怪物是绿色的。",
+      "find": {
+        "label": "找一找：想象云里张牙舞爪的绿色大怪物在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/kKUR2aRxE9",
+        "hotspot": { "x1": 0.45, "y1": 0.0, "x2": 1.0, "y2": 0.5 }
+      }
+    },
+    {
+      "id": "dinosaur",
+      "word": "dinosaur",
+      "zh": "恐龙",
+      "image": "https://aka.doubaocdn.com/s/Ek9X3GV9i1",
+      "audio": "https://aka.doubaocdn.com/s/fdmvN0v349",
+      "sentence": "Is it a big dinosaur?",
+      "sentenceZh": "是只大恐龙吗？",
+      "scenario": "The dinosaur is big.",
+      "scenarioZh": "恐龙很大。",
+      "find": {
+        "label": "找一找：想象云里张着大嘴的绿色恐龙在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/AMKFmY2vsR",
+        "hotspot": { "x1": 0.35, "y1": 0.0, "x2": 1.0, "y2": 0.55 }
+      }
+    },
+    {
+      "id": "feet",
+      "word": "feet",
+      "zh": "脚（复数）",
+      "image": "https://aka.doubaocdn.com/s/tlgXxiFiZc",
+      "audio": "https://aka.doubaocdn.com/s/PzKo2OyT6a",
+      "sentence": "Look at the big feet.",
+      "sentenceZh": "看这双大脚。",
+      "scenario": "My feet are cold.",
+      "scenarioZh": "我的脚好冷。",
+      "find": {
+        "label": "找一找：雪地上一串大大的蓝色脚印在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/VM2TTN4Lwc",
+        "hotspot": { "x1": 0.0, "y1": 0.55, "x2": 1.0, "y2": 0.95 }
+      }
+    },
+    {
+      "id": "dad",
+      "word": "Dad",
+      "zh": "爸爸",
+      "image": "https://aka.doubaocdn.com/s/dogD2JbRl4",
+      "audio": "https://aka.doubaocdn.com/s/ZDyqycLuDm",
+      "sentence": "No. It is Dad.",
+      "sentenceZh": "不，是爸爸。",
+      "scenario": "Dad has big feet.",
+      "scenarioZh": "爸爸的脚很大。",
+      "find": {
+        "label": "找一找：踩着大雪鞋、从墙角探出身的爸爸在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/Nhh3cYZyqX",
+        "hotspot": { "x1": 0.0, "y1": 0.05, "x2": 0.4, "y2": 0.8 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Is it a big monster?",
+      "questionAudio": "https://aka.doubaocdn.com/s/TUTDwngAse",
+      "hint": "红衣女孩想象出一只绿色的大怪物。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/eQZZkmWVWX",
+          "label": "big monster",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/LSUY8loiP5",
+          "label": "come and look",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/VQzvWMBOzw",
+          "label": "big dinosaur",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/33XpGriyyg",
+          "label": "it is Dad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Is it a big dinosaur?",
+      "questionAudio": "https://aka.doubaocdn.com/s/qMG3qw111V",
+      "hint": "黄衣男孩想象出一只大恐龙。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/VQzvWMBOzw",
+          "label": "big dinosaur",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/FU3pXuCT72",
+          "label": "come and look",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/eQZZkmWVWX",
+          "label": "big monster",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/Kw3kzLjbhn",
+          "label": "big giant",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Is it a big giant?",
+      "questionAudio": "https://aka.doubaocdn.com/s/bjSZaAymVh",
+      "hint": "妈妈想象出一双巨人的大脚。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/Kw3kzLjbhn",
+          "label": "big giant",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/8uvSniS4fb",
+          "label": "come and look",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/VQzvWMBOzw",
+          "label": "big dinosaur",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/33XpGriyyg",
+          "label": "it is Dad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "No. It is Dad.",
+      "questionAudio": "https://aka.doubaocdn.com/s/dUDaplmdQL",
+      "hint": "谜底揭开：是爸爸穿着大雪鞋。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/33XpGriyyg",
+          "label": "it is Dad",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/ZgH1Rdndfc",
+          "label": "come and look",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/eQZZkmWVWX",
+          "label": "big monster",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/Kw3kzLjbhn",
+          "label": "big giant",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Come and look at this.",
+      "questionAudio": "https://aka.doubaocdn.com/s/ygmH5ojVUH",
+      "hint": "绿衣男孩指着门外雪地上的大脚印。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/LSUY8loiP5",
+          "label": "come and look",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/eQZZkmWVWX",
+          "label": "big monster",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/VQzvWMBOzw",
+          "label": "big dinosaur",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/Kw3kzLjbhn",
+          "label": "big giant",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

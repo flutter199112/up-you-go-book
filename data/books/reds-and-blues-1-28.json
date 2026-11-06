@@ -1,0 +1,287 @@
+{
+  "id": "reds-and-blues-1-28",
+  "title": "Reds and Blues",
+  "subtitle": "牛津阅读树 Level 1 · 红队和蓝队",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/GUQkdLpiz4",
+    "title": "Reds and Blues",
+    "subtitle": "红队和蓝队"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/7QUBGMUz3j"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/IuoqaQJPJz",
+      "text": "We are all in red.",
+      "zh": "我们都穿红色。",
+      "start": 0,
+      "end": 12.12
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/bfhXrGYTma",
+      "text": "We are all in blue.",
+      "zh": "我们都穿蓝色。",
+      "start": 12.12,
+      "end": 13.9
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/59XBhh8RT9",
+      "text": "",
+      "zh": "蓝队进球啦！",
+      "start": 13.9,
+      "end": 18.36
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/S72IIi0WN9",
+      "text": "Come on the reds!",
+      "zh": "红队加油！",
+      "start": 18.36,
+      "end": 21.16
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/Q8fzDNLFHA",
+      "text": "Come on the blues!",
+      "zh": "蓝队加油！",
+      "start": 21.16,
+      "end": 32.88
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/qZv84Fyj9u",
+      "text": "Who is in red?",
+      "zh": "谁穿红色？",
+      "start": 32.88,
+      "end": 35.6
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/CAFy3GAJcf",
+      "text": "Who is in blue?",
+      "zh": "谁穿蓝色？",
+      "start": 35.6,
+      "end": 40.98
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/XVUknktp5V",
+      "text": "We are all muddy.",
+      "zh": "我们都变成小泥人了。",
+      "start": 40.98,
+      "end": 42.62
+    }
+  ],
+  "cards": [
+    {
+      "id": "red",
+      "word": "red",
+      "zh": "红色",
+      "image": "https://aka.doubaocdn.com/s/Ys4lJ0K8um",
+      "audio": "https://aka.doubaocdn.com/s/TWHeufAVIU",
+      "sentence": "We are in red.",
+      "sentenceZh": "我们穿红色。",
+      "scenario": "The apple is red.",
+      "scenarioZh": "苹果是红色的。",
+      "find": {
+        "label": "找一找：穿红色球衣、抱臂站在中间的男孩在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/IuoqaQJPJz",
+        "hotspot": { "x1": 0.28, "y1": 0.28, "x2": 0.62, "y2": 0.85 }
+      }
+    },
+    {
+      "id": "blue",
+      "word": "blue",
+      "zh": "蓝色",
+      "image": "https://aka.doubaocdn.com/s/z5E4uw2Y1s",
+      "audio": "https://aka.doubaocdn.com/s/YuVeV6rgvZ",
+      "sentence": "We are in blue.",
+      "sentenceZh": "我们穿蓝色。",
+      "scenario": "The sky is blue.",
+      "scenarioZh": "天空是蓝色的。",
+      "find": {
+        "label": "找一找：穿蓝色球衣、正在踢球的女孩在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/bfhXrGYTma",
+        "hotspot": { "x1": 0.5, "y1": 0.15, "x2": 0.98, "y2": 0.7 }
+      }
+    },
+    {
+      "id": "come-on",
+      "word": "come on",
+      "zh": "加油",
+      "image": "https://aka.doubaocdn.com/s/oBXKRm5w2h",
+      "audio": "https://aka.doubaocdn.com/s/bvUWtA7ml2",
+      "sentence": "Come on, reds!",
+      "sentenceZh": "红队加油！",
+      "scenario": "Come on! You can do it!",
+      "scenarioZh": "加油！你能做到的！",
+      "find": {
+        "label": "找一找：手指前方、喊加油的红衣男孩在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/S72IIi0WN9",
+        "hotspot": { "x1": 0.05, "y1": 0.35, "x2": 0.6, "y2": 0.95 }
+      }
+    },
+    {
+      "id": "muddy",
+      "word": "muddy",
+      "zh": "沾满泥的",
+      "image": "https://aka.doubaocdn.com/s/H2k57qYtZS",
+      "audio": "https://aka.doubaocdn.com/s/KIl1a6VEeU",
+      "sentence": "We are all muddy.",
+      "sentenceZh": "我们都沾满泥了。",
+      "scenario": "The dog is muddy.",
+      "scenarioZh": "小狗身上全是泥。",
+      "find": {
+        "label": "找一找：满脸是泥、抱着足球笑的男孩在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/XVUknktp5V",
+        "hotspot": { "x1": 0.28, "y1": 0.25, "x2": 0.68, "y2": 0.95 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "We are all in red.",
+      "questionAudio": "https://aka.doubaocdn.com/s/YRokiJPEUt",
+      "hint": "大家都穿着红色球衣站成一排。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/0qsbC4yVHP",
+          "label": "in red",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/XwgREuCEvN",
+          "label": "in blue",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qVnIR9p4l1",
+          "label": "come on reds",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/N7UviE7EUM",
+          "label": "all muddy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "We are all in blue.",
+      "questionAudio": "https://aka.doubaocdn.com/s/tHeO2vTjON",
+      "hint": "大家都穿着蓝色球衣在踢球。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/XwgREuCEvN",
+          "label": "in blue",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/0qsbC4yVHP",
+          "label": "in red",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/aUJTNkGSzA",
+          "label": "come on blues",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/N7UviE7EUM",
+          "label": "all muddy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Come on the reds!",
+      "questionAudio": "https://aka.doubaocdn.com/s/4wEFXaaUPA",
+      "hint": "红衣队正在进攻，大家喊加油。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/qVnIR9p4l1",
+          "label": "come on reds",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/0qsbC4yVHP",
+          "label": "in red",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/XwgREuCEvN",
+          "label": "in blue",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/7rNsfsae3w",
+          "label": "who is in red",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Who is in red?",
+      "questionAudio": "https://aka.doubaocdn.com/s/a0ZPcmHtfq",
+      "hint": "守门员在扑救，一个人倒钩踢球。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/7rNsfsae3w",
+          "label": "who is in red",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/0qsbC4yVHP",
+          "label": "in red",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qVnIR9p4l1",
+          "label": "come on reds",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/N7UviE7EUM",
+          "label": "all muddy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "We are all muddy.",
+      "questionAudio": "https://aka.doubaocdn.com/s/CMl2B34SCp",
+      "hint": "比赛结束，大家都变成小泥人了。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/N7UviE7EUM",
+          "label": "all muddy",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/0qsbC4yVHP",
+          "label": "in red",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/XwgREuCEvN",
+          "label": "in blue",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qVnIR9p4l1",
+          "label": "come on reds",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

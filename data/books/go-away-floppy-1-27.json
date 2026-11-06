@@ -1,0 +1,307 @@
+{
+  "id": "go-away-floppy-1-27",
+  "title": "Go Away, Floppy",
+  "subtitle": "牛津阅读树 Level 1 · 走开，Floppy",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/NpgzVEytcV",
+    "title": "Go Away, Floppy",
+    "subtitle": "走开，Floppy！"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/YQdFZcZKQ6"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/DgCmMtjwL8",
+      "text": "Go away, Floppy.",
+      "zh": "走开，Floppy。",
+      "start": 0,
+      "end": 5.6
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/bMmNDmxcNx",
+      "text": "Go away, Floppy.",
+      "zh": "走开，Floppy。",
+      "start": 5.6,
+      "end": 11.45
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/xVsbID3Ums",
+      "text": "We are skipping.",
+      "zh": "我们在跳绳。",
+      "start": 11.45,
+      "end": 17.79
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/LFXC7UuMzV",
+      "text": "Go away, Floppy.",
+      "zh": "走开，Floppy。",
+      "start": 17.79,
+      "end": 24.46
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/YbceNQveiq",
+      "text": "We are painting.",
+      "zh": "我们在刷油漆。",
+      "start": 24.46,
+      "end": 30.32
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/7iy8nCuGe4",
+      "text": "Come back, Floppy.",
+      "zh": "回来，Floppy。",
+      "start": 30.32,
+      "end": 36.05
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/sxWPgvJBvx",
+      "text": "Floppy, come back.",
+      "zh": "Floppy，回来。",
+      "start": 36.05,
+      "end": 40.4
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/AaU2Vn0t6Z",
+      "text": "We are sorry.",
+      "zh": "我们很抱歉。",
+      "start": 40.4,
+      "end": 44.36
+    }
+  ],
+  "cards": [
+    {
+      "id": "go",
+      "word": "go",
+      "zh": "走",
+      "image": "https://aka.doubaocdn.com/s/R4Rn6PFPFy",
+      "audio": "https://aka.doubaocdn.com/s/g8pYthytjP",
+      "sentence": "Go away!",
+      "sentenceZh": "走开！",
+      "scenario": "Let's go!",
+      "scenarioZh": "我们走吧！",
+      "find": {
+        "label": "找一找：画画时被小狗打扰、让小狗走开的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/DgCmMtjwL8",
+        "hotspot": {
+          "x1": 0.3,
+          "y1": 0.2,
+          "x2": 0.95,
+          "y2": 0.85
+        }
+      }
+    },
+    {
+      "id": "away",
+      "word": "away",
+      "zh": "离开",
+      "image": "https://aka.doubaocdn.com/s/pXbmLjdc8s",
+      "audio": "https://aka.doubaocdn.com/s/CnowpHFBfF",
+      "sentence": "Go away, Floppy.",
+      "sentenceZh": "走开，Floppy。",
+      "scenario": "The bird is flying away.",
+      "scenarioZh": "小鸟飞走了。",
+      "find": {
+        "label": "找一找：刷油漆时让小狗走开的爸爸在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/LFXC7UuMzV",
+        "hotspot": {
+          "x1": 0.25,
+          "y1": 0.25,
+          "x2": 0.98,
+          "y2": 0.87
+        }
+      }
+    },
+    {
+      "id": "back",
+      "word": "back",
+      "zh": "回来",
+      "image": "https://aka.doubaocdn.com/s/Yd9QLRc0Tc",
+      "audio": "https://aka.doubaocdn.com/s/5RCV2ngqQN",
+      "sentence": "Come back!",
+      "sentenceZh": "回来！",
+      "scenario": "Come back to me.",
+      "scenarioZh": "回到我身边来。",
+      "find": {
+        "label": "找一找：跪在地上、着急喊小狗回来的爸爸在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/7iy8nCuGe4",
+        "hotspot": {
+          "x1": 0.5,
+          "y1": 0.15,
+          "x2": 0.98,
+          "y2": 0.87
+        }
+      }
+    },
+    {
+      "id": "sorry",
+      "word": "sorry",
+      "zh": "对不起",
+      "image": "https://aka.doubaocdn.com/s/6k59MlwWVT",
+      "audio": "https://aka.doubaocdn.com/s/zVWetoXx3C",
+      "sentence": "We are sorry.",
+      "sentenceZh": "我们很抱歉。",
+      "scenario": "I am sorry.",
+      "scenarioZh": "对不起。",
+      "find": {
+        "label": "找一找：拿着骨头逗小狗、向小狗道歉的男孩在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/AaU2Vn0t6Z",
+        "hotspot": {
+          "x1": 0.35,
+          "y1": 0.25,
+          "x2": 0.98,
+          "y2": 0.87
+        }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Go away, Floppy.",
+      "questionAudio": "https://aka.doubaocdn.com/s/kNpUvkwrE4",
+      "hint": "小朋友在画画，想让 Floppy 走开。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/rXhaaVU9OJ",
+          "label": "go away",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qYhTJvQ6SQ",
+          "label": "skipping",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/YWfX8P0l1a",
+          "label": "painting",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/E0wHpusoNU",
+          "label": "sorry",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "We are skipping.",
+      "questionAudio": "https://aka.doubaocdn.com/s/pg9kbB0941",
+      "hint": "两个小朋友在跳绳，玩得正开心。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/qYhTJvQ6SQ",
+          "label": "skipping",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/rXhaaVU9OJ",
+          "label": "go away",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/YWfX8P0l1a",
+          "label": "painting",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/geaAUUN8B7",
+          "label": "come back",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "We are painting.",
+      "questionAudio": "https://aka.doubaocdn.com/s/iFLpaY6AYK",
+      "hint": "小朋友和妈妈一起刷油漆。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/YWfX8P0l1a",
+          "label": "painting",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/7z1bJGzAbc",
+          "label": "go away",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qYhTJvQ6SQ",
+          "label": "skipping",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/E0wHpusoNU",
+          "label": "sorry",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Come back, Floppy.",
+      "questionAudio": "https://aka.doubaocdn.com/s/LYe0rPFzFS",
+      "hint": "爸爸在刷漆，让 Floppy 快回来。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/0iagy8SBF9",
+          "label": "come back",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qYhTJvQ6SQ",
+          "label": "skipping",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/YWfX8P0l1a",
+          "label": "painting",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/rXhaaVU9OJ",
+          "label": "go away",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "We are sorry.",
+      "questionAudio": "https://aka.doubaocdn.com/s/WuMkUT0Lrw",
+      "hint": "大家一起向 Floppy 道歉，它又开心了。",
+      "options": [
+        {
+          "image": "https://aka.doubaocdn.com/s/E0wHpusoNU",
+          "label": "sorry",
+          "correct": true
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/YWfX8P0l1a",
+          "label": "painting",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/qYhTJvQ6SQ",
+          "label": "skipping",
+          "correct": false
+        },
+        {
+          "image": "https://aka.doubaocdn.com/s/rXhaaVU9OJ",
+          "label": "go away",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

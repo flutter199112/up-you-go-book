@@ -1,0 +1,223 @@
+{
+  "id": "up-you-go-1-23",
+  "title": "Up You Go",
+  "subtitle": "牛津阅读树 Level 1 · 一起滑滑梯",
+  "cover": {
+    "image": "https://aka.doubaocdn.com/s/cNvyWBdh39",
+    "title": "Up You Go",
+    "subtitle": "一起玩滑梯，冲啊！"
+  },
+  "audio": {
+    "src": "https://aka.doubaocdn.com/s/DKqu3LsJwU"
+  },
+  "pages": [
+    {
+      "index": 0,
+      "image": "https://aka.doubaocdn.com/s/jSpdSoTWSY",
+      "text": "Up you go, Kipper.",
+      "zh": "上去吧，Kipper。",
+      "start": 0,
+      "end": 6.76
+    },
+    {
+      "index": 1,
+      "image": "https://aka.doubaocdn.com/s/Wf0hYcw5f6",
+      "text": "Go!",
+      "zh": "出发！",
+      "start": 6.76,
+      "end": 11.74
+    },
+    {
+      "index": 2,
+      "image": "https://aka.doubaocdn.com/s/2dWaDjuuJq",
+      "text": "Up you go, Biff.",
+      "zh": "上去吧，Biff。",
+      "start": 11.74,
+      "end": 18.46
+    },
+    {
+      "index": 3,
+      "image": "https://aka.doubaocdn.com/s/vzo5DiPqU7",
+      "text": "Go, go!",
+      "zh": "冲啊，冲啊！",
+      "start": 18.46,
+      "end": 25.32
+    },
+    {
+      "index": 4,
+      "image": "https://aka.doubaocdn.com/s/lyZXBAmeyq",
+      "text": "Chip, up you go.",
+      "zh": "Chip，上去吧。",
+      "start": 25.32,
+      "end": 33.32
+    },
+    {
+      "index": 5,
+      "image": "https://aka.doubaocdn.com/s/puBUsZdzUS",
+      "text": "Go, go, go!",
+      "zh": "冲啊，冲啊，冲啊！",
+      "start": 33.32,
+      "end": 40.32
+    },
+    {
+      "index": 6,
+      "image": "https://aka.doubaocdn.com/s/hsrmBxUNDu",
+      "text": "No, Dad.",
+      "zh": "不要啊，爸爸。",
+      "start": 40.32,
+      "end": 49.06
+    },
+    {
+      "index": 7,
+      "image": "https://aka.doubaocdn.com/s/SPgb3wF51q",
+      "text": "No, no, no!",
+      "zh": "不要，不要，不要！",
+      "start": 82.12,
+      "end": 91.58
+    }
+  ],
+  "cards": [
+    {
+      "id": "up",
+      "word": "up",
+      "zh": "向上",
+      "image": "https://aka.doubaocdn.com/s/KVZ5mpLLsV",
+      "audio": "https://aka.doubaocdn.com/s/tl9rQeZzU4",
+      "sentence": "Up you go, Kipper.",
+      "sentenceZh": "上去吧，Kipper。",
+      "scenario": "Look up! The sun is up.",
+      "scenarioZh": "抬头看！太阳升起来啦。",
+      "find": {
+        "label": "找一找：往上爬的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/jSpdSoTWSY",
+        "hotspot": { "x1": 0.1, "y1": 0.16, "x2": 0.5, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "go",
+      "word": "go",
+      "zh": "出发！冲！",
+      "image": "https://aka.doubaocdn.com/s/wDe7yVZwWN",
+      "audio": "https://aka.doubaocdn.com/s/QZWe3K0PAD",
+      "sentence": "Go, go, go!",
+      "sentenceZh": "冲啊，冲啊，冲啊！",
+      "scenario": "Let's go to the park.",
+      "scenarioZh": "我们去公园吧！",
+      "find": {
+        "label": "找一找：滑下来的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/Wf0hYcw5f6",
+        "hotspot": { "x1": 0.22, "y1": 0.18, "x2": 0.62, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "no",
+      "word": "no",
+      "zh": "不 · 不要",
+      "image": "https://aka.doubaocdn.com/s/8ep4tbfDU2",
+      "audio": "https://aka.doubaocdn.com/s/4MERSBiEQp",
+      "sentence": "No, Dad.",
+      "sentenceZh": "不要啊，爸爸。",
+      "scenario": "No, no, no! Don't touch it.",
+      "scenarioZh": "不要不要不要！别碰它。",
+      "find": {
+        "label": "找一找：摇手说不的小朋友在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/hsrmBxUNDu",
+        "hotspot": { "x1": 0.48, "y1": 0.32, "x2": 0.92, "y2": 0.82 }
+      }
+    },
+    {
+      "id": "slide",
+      "word": "slide",
+      "zh": "滑梯",
+      "image": "https://aka.doubaocdn.com/s/nwfITnIo4H",
+      "audio": "https://aka.doubaocdn.com/s/7ELt7sPTyH",
+      "sentence": "Up you go!",
+      "sentenceZh": "上去吧！",
+      "scenario": "The slide is fun.",
+      "scenarioZh": "滑梯真好玩。",
+      "find": {
+        "label": "找一找：绿色的大滑梯在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/jSpdSoTWSY",
+        "hotspot": { "x1": 0.28, "y1": 0.08, "x2": 0.85, "y2": 0.8 }
+      }
+    },
+    {
+      "id": "pool",
+      "word": "pool",
+      "zh": "泳池",
+      "image": "https://aka.doubaocdn.com/s/WFyuUg3tcr",
+      "audio": "https://aka.doubaocdn.com/s/JcYo48mGC1",
+      "sentence": "Go!",
+      "sentenceZh": "出发！",
+      "scenario": "Splash in the pool.",
+      "scenarioZh": "扑通跳进泳池里。",
+      "find": {
+        "label": "找一找：红黄相间的充气泳池在哪里？",
+        "pageImage": "https://aka.doubaocdn.com/s/Wf0hYcw5f6",
+        "hotspot": { "x1": 0.35, "y1": 0.46, "x2": 0.8, "y2": 0.72 }
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-slide",
+      "question": "Which one is the slide?",
+      "questionAudio": "https://aka.doubaocdn.com/s/mXrbYkcUJv",
+      "hint": "滑梯滑滑的，小朋友从上面滑下来。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/nwfITnIo4H", "label": "slide", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/WFyuUg3tcr", "label": "pool", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/KVZ5mpLLsV", "label": "up", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/SPgb3wF51q", "label": "no", "correct": false }
+      ]
+    },
+    {
+      "id": "q-pool",
+      "question": "Which one is the pool?",
+      "questionAudio": "https://aka.doubaocdn.com/s/i9faVryban",
+      "hint": "泳池里装满了水，可以扑通跳进去。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/WFyuUg3tcr", "label": "pool", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/nwfITnIo4H", "label": "slide", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/KVZ5mpLLsV", "label": "up", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/8ep4tbfDU2", "label": "no", "correct": false }
+      ]
+    },
+    {
+      "id": "q-up",
+      "question": "Up you go!",
+      "questionAudio": "https://aka.doubaocdn.com/s/6KSNkY6Gqk",
+      "hint": "往上爬上去，就是 up！",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/KVZ5mpLLsV", "label": "up", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/SPgb3wF51q", "label": "no", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/Wf0hYcw5f6", "label": "go", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/WFyuUg3tcr", "label": "pool", "correct": false }
+      ]
+    },
+    {
+      "id": "q-go",
+      "question": "Go, go, go!",
+      "questionAudio": "https://aka.doubaocdn.com/s/s195oVBdr0",
+      "hint": "大家一起冲啊！水花四溅。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/puBUsZdzUS", "label": "go", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/KVZ5mpLLsV", "label": "up", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/SPgb3wF51q", "label": "no", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/nwfITnIo4H", "label": "slide", "correct": false }
+      ]
+    },
+    {
+      "id": "q-no",
+      "question": "No, no, no!",
+      "questionAudio": "https://aka.doubaocdn.com/s/BcKLG1kpW5",
+      "hint": "不要不要不要！爸爸摔倒啦。",
+      "options": [
+        { "image": "https://aka.doubaocdn.com/s/SPgb3wF51q", "label": "no", "correct": true },
+        { "image": "https://aka.doubaocdn.com/s/puBUsZdzUS", "label": "go", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/KVZ5mpLLsV", "label": "up", "correct": false },
+        { "image": "https://aka.doubaocdn.com/s/nwfITnIo4H", "label": "slide", "correct": false }
+      ]
+    }
+  ]
+}
